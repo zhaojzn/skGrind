@@ -1,0 +1,4 @@
+name: SkGrind
+version: '${version}'
+main: com.jasonzhao.addon.skgrind.SkGrind
+depend: [Skript]
